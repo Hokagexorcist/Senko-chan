@@ -2,7 +2,7 @@
   "name": "senko-chan",
   "version": "1.0.0",
   "description": "Pamper Pamper",
-  "main": "index.js",
+  "main": "senko.js",
   "scripts": {
     "start": "node senko.js"
   },
